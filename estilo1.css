@@ -1,0 +1,53 @@
+body {
+	width: 95%;
+	max-width: 1000px;
+	margin: auto;
+	font-family: sans-serif;
+	line-height: 1.5;
+	background: #e6cef3;
+	margin-top: 20px;
+	font-size: 16px;
+	text-align: justify;
+
+	
+}
+
+.titulo1 {
+
+	text-align: center;
+
+}
+
+#centro-distribuicao {
+
+	text-align: center;
+
+	padding: 10px;
+	background: #ff00e012;
+	margin-top: 20px;
+	border-radius: 10px;
+
+}
+
+#familia-pelho {
+
+	text-align: center;	
+	padding: 10px;
+	background: #ff00e012;
+	margin-top: 20px;
+	border-radius: 10px;
+}
+
+#historia {
+
+	text-align: center;
+	margin: 40px;
+
+} 
+
+.logofinal {
+	text-align: right;
+	margin: 20px;
+	margin-top: 40px;
+	margin-right: -200px;
+}
